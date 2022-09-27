@@ -1,0 +1,11 @@
+C:\Users\trent\source\repos\CEIS209\CEIS209\bin\Debug\CEIS209.exe.config
+C:\Users\trent\source\repos\CEIS209\CEIS209\bin\Debug\CEIS209.exe
+C:\Users\trent\source\repos\CEIS209\CEIS209\bin\Debug\CEIS209.pdb
+C:\Users\trent\source\repos\CEIS209\CEIS209\obj\Debug\CEIS209.csproj.AssemblyReference.cache
+C:\Users\trent\source\repos\CEIS209\CEIS209\obj\Debug\CEIS209.csproj.SuggestedBindingRedirects.cache
+C:\Users\trent\source\repos\CEIS209\CEIS209\obj\Debug\CEIS209.Properties.Resources.resources
+C:\Users\trent\source\repos\CEIS209\CEIS209\obj\Debug\CEIS209.csproj.GenerateResource.cache
+C:\Users\trent\source\repos\CEIS209\CEIS209\obj\Debug\CEIS209.csproj.CoreCompileInputs.cache
+C:\Users\trent\source\repos\CEIS209\CEIS209\obj\Debug\CEIS209.exe
+C:\Users\trent\source\repos\CEIS209\CEIS209\obj\Debug\CEIS209.pdb
+C:\Users\trent\source\repos\CEIS209\CEIS209\obj\Debug\CEIS209_DENTON_CourseProject.mainForm.resources
